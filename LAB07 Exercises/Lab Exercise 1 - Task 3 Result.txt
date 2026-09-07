@@ -1,6 +1,6 @@
-custid      contactname                    city
+﻿custid      contactname                    city
 ----------- ------------------------------ ---------------
-5           Higginbotham, Tom              Lule�
+5           Higginbotham, Tom              Luleå
 7           Bansal, Dushyant               Strasbourg
 9           Raghav, Amritansh              Marseille
 ...

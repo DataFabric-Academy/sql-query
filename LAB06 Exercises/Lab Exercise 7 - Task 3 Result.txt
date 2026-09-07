@@ -1,8 +1,8 @@
-custid      contactname                    city            region
+ï»¿custid      contactname                    city            region
 ----------- ------------------------------ --------------- ---------------
 1           Allen, Michael                 Berlin          NULL
-2           Hassall, Mark                  México D.F.     NULL
-3           Peoples, John                  México D.F.     NULL
+2           Hassall, Mark                  MÃ©xico D.F.     NULL
+3           Peoples, John                  MÃ©xico D.F.     NULL
 ...
 ...
 ...

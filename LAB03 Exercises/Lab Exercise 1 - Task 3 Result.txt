@@ -1,8 +1,8 @@
-contactname                    address                                                      postalcode city            country
+ï»¿contactname                    address                                                      postalcode city            country
 ------------------------------ ------------------------------------------------------------ ---------- --------------- ---------------
 Allen, Michael                 Obere Str. 0123                                              10092      Berlin          Germany
-Hassall, Mark                  Avda. de la Constitución 5678                                10077      México D.F.     Mexico
-Peoples, John                  Mataderos  7890                                              10097      México D.F.     Mexico
+Hassall, Mark                  Avda. de la ConstituciÃ³n 5678                                10077      MÃ©xico D.F.     Mexico
+Peoples, John                  Mataderos  7890                                              10097      MÃ©xico D.F.     Mexico
 ...
 ...
 Smith Jr., Ronaldo             8901 - 14th Ave. S. Suite 3B                                 10049      Seattle         USA

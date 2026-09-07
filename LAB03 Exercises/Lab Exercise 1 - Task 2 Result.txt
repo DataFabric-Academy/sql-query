@@ -1,8 +1,8 @@
-custid      companyname                              contactname                    contacttitle                   address                                                      city            region          postalcode country         phone                    fax
+ï»¿custid      companyname                              contactname                    contacttitle                   address                                                      city            region          postalcode country         phone                    fax
 ----------- ---------------------------------------- ------------------------------ ------------------------------ ------------------------------------------------------------ --------------- --------------- ---------- --------------- ------------------------ ------------------------
 1           Customer NRZBB                           Allen, Michael                 Sales Representative           Obere Str. 0123                                              Berlin          NULL            10092      Germany         030-3456789              030-0123456
-2           Customer MLTDN                           Hassall, Mark                  Owner                          Avda. de la Constitución 5678                                México D.F.     NULL            10077      Mexico          (5) 789-0123             (5) 456-7890
-3           Customer KBUDE                           Peoples, John                  Owner                          Mataderos  7890                                              México D.F.     NULL            10097      Mexico          (5) 123-4567             NULL
+2           Customer MLTDN                           Hassall, Mark                  Owner                          Avda. de la ConstituciÃ³n 5678                                MÃ©xico D.F.     NULL            10077      Mexico          (5) 789-0123             (5) 456-7890
+3           Customer KBUDE                           Peoples, John                  Owner                          Mataderos  7890                                              MÃ©xico D.F.     NULL            10097      Mexico          (5) 123-4567             NULL
 ...
 ...
 ...

@@ -1,4 +1,4 @@
-custid      contactname                    orderid     orderdate
+ï»¿custid      contactname                    orderid     orderdate
 ----------- ------------------------------ ----------- -----------------------
 9           Raghav, Amritansh              11076       2008-05-06 00:00:00.000
 65          Moore, Michael                 11077       2008-05-06 00:00:00.000
@@ -12,9 +12,9 @@ custid      contactname                    orderid     orderdate
 62          Misiec, Anna                   11068       2008-05-04 00:00:00.000
 80          Geschwandtner, Jens            11069       2008-05-04 00:00:00.000
 46          Dressler, Marlies              11065       2008-05-01 00:00:00.000
-71          Navarro, Tomás                 11064       2008-05-01 00:00:00.000
+71          Navarro, TomÃ¡s                 11064       2008-05-01 00:00:00.000
 89          Smith Jr., Ronaldo             11066       2008-05-01 00:00:00.000
-27          Schmöllerl, Martin             11060       2008-04-30 00:00:00.000
+27          SchmÃ¶llerl, Martin             11060       2008-04-30 00:00:00.000
 32          Krishnan, Venky                11061       2008-04-30 00:00:00.000
 37          Craciun, Ovidiu V.             11063       2008-04-30 00:00:00.000
 66          Voss, Florian                  11062       2008-04-30 00:00:00.000
@@ -37,7 +37,7 @@ custid      contactname                    orderid     orderdate
 14          Jelitto, Jacek                 11041       2008-04-22 00:00:00.000
 15          Richardson, Shawn              11042       2008-04-22 00:00:00.000
 32          Krishnan, Venky                11040       2008-04-22 00:00:00.000
-74          O’Brien, Dave                  11043       2008-04-22 00:00:00.000
+74          Oâ€™Brien, Dave                  11043       2008-04-22 00:00:00.000
 30          Shabalin, Rostislav            11037       2008-04-21 00:00:00.000
 47          Lupu, Cornel                   11039       2008-04-21 00:00:00.000
 76          Gulbis, Katrin                 11038       2008-04-21 00:00:00.000
@@ -45,14 +45,14 @@ custid      contactname                    orderid     orderdate
 55          Egelund-Muller, Anja           11034       2008-04-20 00:00:00.000
 76          Gulbis, Katrin                 11035       2008-04-20 00:00:00.000
 68          Myrcha, Jacek                  11033       2008-04-17 00:00:00.000
-71          Navarro, Tomás                 11030       2008-04-17 00:00:00.000
-71          Navarro, Tomás                 11031       2008-04-17 00:00:00.000
+71          Navarro, TomÃ¡s                 11030       2008-04-17 00:00:00.000
+71          Navarro, TomÃ¡s                 11031       2008-04-17 00:00:00.000
 89          Smith Jr., Ronaldo             11032       2008-04-17 00:00:00.000
 10          Bassols, Pilar Colome          11027       2008-04-16 00:00:00.000
 14          Jelitto, Jacek                 11029       2008-04-16 00:00:00.000
 39          Song, Lolan                    11028       2008-04-16 00:00:00.000
 19          Boseman, Randall               11024       2008-04-15 00:00:00.000
-27          Schmöllerl, Martin             11026       2008-04-15 00:00:00.000
+27          SchmÃ¶llerl, Martin             11026       2008-04-15 00:00:00.000
 87          Ludwig, Michael                11025       2008-04-15 00:00:00.000
 11          Jaffe, David                   11023       2008-04-14 00:00:00.000
 34          Cohen, Shy                     11022       2008-04-14 00:00:00.000
@@ -76,7 +76,7 @@ custid      contactname                    orderid     orderdate
 90          Larsson, Katarina              11005       2008-04-07 00:00:00.000
 24          San Juan, Patricia             11001       2008-04-06 00:00:00.000
 65          Moore, Michael                 11000       2008-04-06 00:00:00.000
-71          Navarro, Tomás                 11002       2008-04-06 00:00:00.000
+71          Navarro, TomÃ¡s                 11002       2008-04-06 00:00:00.000
 78          Young, Robin                   11003       2008-04-06 00:00:00.000
 46          Dressler, Marlies              10997       2008-04-03 00:00:00.000
 56          Marinova, Nadejda              10999       2008-04-03 00:00:00.000
