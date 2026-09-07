@@ -51,7 +51,140 @@
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
-      <Items />
+      <Items>
+        <FileNode Name="Lab Exercise 1 - Task 1 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 1 - Task 1 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 1 - Task 3 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 1 - Task 3 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 1 - Task 4 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 1 - Task 4 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 2 - Task 1 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 2 - Task 1 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 2 - Task 2 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 2 - Task 2 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 2 - Task 3 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 2 - Task 3 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 2 - Task 4 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 2 - Task 4 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 3 - Task 1 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 3 - Task 1 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 3 - Task 2 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 3 - Task 2 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 3 - Task 3 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 3 - Task 3 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 4 - Task 1 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 4 - Task 1 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 4 - Task 2 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 4 - Task 2 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 4 - Task 3 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 4 - Task 3 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 4 - Task 4 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 4 - Task 4 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 5 - Task 1 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 5 - Task 1 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 5 - Task 2 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 5 - Task 2 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 5 - Task 3 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 5 - Task 3 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 6 - Task 1 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 6 - Task 1 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 6 - Task 2 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 6 - Task 2 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 6 - Task 3 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 6 - Task 3 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 7 - Task 1 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 7 - Task 1 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Lab Exercise 7 - Task 3 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>..\LAB06 Results\Lab Exercise 7 - Task 3 Result.txt</FullPath>
+        </FileNode>
+      </Items>
     </LogicalFolder>
   </Items>
 </SqlWorkbenchSqlProject>
