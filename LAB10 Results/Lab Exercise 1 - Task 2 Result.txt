@@ -1,0 +1,7 @@
+productid   productname
+----------- ----------------------------------------
+29          Product VJXYN
+38          Product QDOMO
+59          Product UKXRI
+
+(3 row(s) affected)

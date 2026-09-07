@@ -1,0 +1,8 @@
+productid   productname                              totalsalesamount
+----------- ---------------------------------------- ---------------------------------------
+59          Product UKXRI                            8514.0000000
+64          Product HCQDE                            6290.9000000
+51          Product APITJ                            6042.0000000
+
+(3 row(s) affected)
+

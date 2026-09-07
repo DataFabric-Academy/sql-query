@@ -1,0 +1,16 @@
+custid      contactname                    segmentgroup
+----------- ------------------------------ ------------
+1           Allen, Michael                 Other
+2           Hassall, Mark                  Target group
+3           Peoples, John                  Target group
+4           Arndt, Torsten                 Other
+5           Higginbotham, Tom              Other
+...
+...
+...
+88          Li, Yan                        Target group
+89          Smith Jr., Ronaldo             Target group
+90          Larsson, Katarina              Other
+91          Conn, Steve                    Target group
+
+(91 row(s) affected)

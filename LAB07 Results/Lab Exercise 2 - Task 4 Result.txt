@@ -1,0 +1,14 @@
+custid      contactname                    totalsalesamount                        maxsalesamountperorderline              numberofrows numberoforderlines
+----------- ------------------------------ --------------------------------------- --------------------------------------- ------------ ------------------
+22          Bueno, Janaina Burdan, Neville NULL                                    NULL                                    1            0
+57          Tollevsen, Bjørn               NULL                                    NULL                                    1            0
+13          Benito, Almudena               100.8000000                             80.0000000                              2            2
+...
+...
+...
+71          Navarro, Tomás                 104361.9500000                          5570.5500000                            116          116
+20          Kane, John                     104874.9785000                          6050.0000000                            102          102
+63          Veronesi, Giorgio              110277.3050000                          15019.5000000                           86           86
+Warning: Null value is eliminated by an aggregate or other SET operation.
+
+(91 row(s) affected)

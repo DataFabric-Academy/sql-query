@@ -1,0 +1,15 @@
+productid   productname
+----------- ----------------------------------------
+11          Product QMVUN
+12          Product OSFNS
+31          Product XWOXC
+32          Product NUNAW
+33          Product ASTMN
+59          Product UKXRI
+60          Product WHBYK
+69          Product COAXA
+71          Product MYMOI
+72          Product GEEOO
+
+(10 row(s) affected)
+
