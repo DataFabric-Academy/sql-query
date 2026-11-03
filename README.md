@@ -8,10 +8,10 @@
 
 ```
 ├── README.md              ← ไฟล์นี้
-├── Setup/
+├── setup_files/
 │   ├── TSQL.sql           ← สคริปต์สร้าง + populate database TSQL
 │   └── README.md          ← วิธีติดตั้งและรายละเอียดข้อมูล
-└── LABS/
+└── lab_files/
     ├── SQL Query.slnx     ← เปิดทุก project พร้อมกันใน SSMS
     ├── LAB02 Exercises/   LAB02 Solutions/   (โครงสร้างเดียวกันถึง LAB11)
     │   ├── Lab Exercise N.sql        ← โจทย์/เฉลย
@@ -23,8 +23,8 @@
 ## การเตรียมสภาพแวดล้อม
 
 1. SQL Server 2019 ขึ้นไป (หรือ Azure SQL Database) และ SSMS
-2. รัน `Setup/TSQL.sql` ดูวิธีละเอียดใน [Setup/README.md](Setup/README.md)
-3. เปิด `LABS/SQL Query.slnx` ด้วย SSMS — ได้ project ของทุก LAB ในหน้าต่างเดียว
+2. รัน `setup_files/TSQL.sql` ดูวิธีละเอียดใน [setup_files/README.md](setup_files/README.md)
+3. เปิด `lab_files/SQL Query.slnx` ด้วย SSMS — ได้ project ของทุก LAB ในหน้าต่างเดียว
 4. ผู้เรียนเชื่อมต่อไปยัง database **TSQL** (server / user / password ตามที่อาจารย์แจ้ง)
 
 ## แบบฝึกหัดทั้งหมด

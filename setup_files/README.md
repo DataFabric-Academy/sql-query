@@ -1,6 +1,6 @@
 # Setup — สร้าง sample database TSQL
 
-ไฟล์ `TSQL.sql` สร้างและเติมข้อมูล sample database ชื่อ **TSQL** สำหรับแบบฝึกหัดทั้งหมดใน `LABS/`
+ไฟล์ `TSQL.sql` สร้างและเติมข้อมูล sample database ชื่อ **TSQL** สำหรับแบบฝึกหัดทั้งหมดใน `lab_files/`
 ดัดแปลงจาก TSQLV6 sample database ของ Itzik Ben-Gan (ตำรา *T-SQL Fundamentals*)
 
 ## สิ่งที่สคริปต์ทำ
