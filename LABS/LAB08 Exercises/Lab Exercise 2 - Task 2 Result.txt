@@ -1,0 +1,6 @@
+custid contactname
+------ ----------------
+22     Daly, Jim
+57     Tollevsen, Bjørn
+
+(2 row(s) affected)

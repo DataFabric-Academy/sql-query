@@ -1,0 +1,14 @@
+firstletter noofcustomers nooforders
+----------- ------------- ----------
+A           1             6
+B           4             23
+C           4             50
+D           4             23
+.           .             .
+.           .             .
+.           .             .
+W           6             41
+Y           1             2
+Z           2             17
+
+(25 row(s) affected)

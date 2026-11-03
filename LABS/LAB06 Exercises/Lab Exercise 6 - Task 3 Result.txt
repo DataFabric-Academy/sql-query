@@ -1,0 +1,14 @@
+custid contactname        segmentgroup
+------ ------------------ ------------
+1      Allen, Michael     Group Two
+2      Hassall, Mark      Group Three
+3      Strome, David      Group Four
+4      Cunningham, Conor  Group One
+.      .                  .
+.      .                  .
+.      .                  .
+89     Smith Jr., Ronaldo Group Two
+90     Larsson, Katarina  Group Three
+91     Vasa, Petr         Group Four
+
+(91 row(s) affected)

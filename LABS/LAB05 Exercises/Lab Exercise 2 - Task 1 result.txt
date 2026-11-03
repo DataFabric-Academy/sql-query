@@ -1,0 +1,14 @@
+custid contactname       orderid orderdate
+------ ----------------- ------- -----------------------
+65     Moore, Michael    11077   2026-05-06 17:12:50.000
+68     Myrcha, Jacek     11075   2026-05-06 15:12:04.000
+9      Raghav, Amritansh 11076   2026-05-06 14:50:20.000
+73     Gonzalez, Nuria   11074   2026-05-06 10:27:19.000
+.      .                 .
+.      .                 .
+.      .                 .
+63     Veronesi, Giorgio 10991   2026-04-01 13:07:45.000
+77     Didcock, Cliff    10992   2026-04-01 09:41:17.000
+24     Grisso, Geoff     10993   2026-04-01 08:24:48.000
+
+(88 row(s) affected)

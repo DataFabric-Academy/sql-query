@@ -1,0 +1,14 @@
+contactwithcity
+----------------------------------
+Allen, Michael (city: Berlin)
+Hassall, Mark (city: México D.F.)
+Strome, David (city: México D.F.)
+Cunningham, Conor (city: London)
+.
+.
+.
+Smith Jr., Ronaldo (city: Seattle)
+Larsson, Katarina (city: Helsinki)
+Vasa, Petr (city: Warszawa)
+
+(91 row(s) affected)

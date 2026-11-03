@@ -1,0 +1,14 @@
+contactname        lastname
+------------------ ----------
+Allen, Michael     Allen
+Hassall, Mark      Hassall
+Strome, David      Strome
+Cunningham, Conor  Cunningham
+.                  .
+.                  .
+.                  .
+Smith Jr., Ronaldo Smith Jr.
+Larsson, Katarina  Larsson
+Vasa, Petr         Vasa
+
+(91 row(s) affected)

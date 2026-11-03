@@ -1,0 +1,14 @@
+custid companyname    orderid
+------ -------------- -------
+1      Customer NRZBB NULL
+2      Customer MLTDN NULL
+3      Customer KBUDE NULL
+4      Customer HFBZG NULL
+.      .              .
+.      .              .
+.      .              .
+89     Customer YBQTI NULL
+90     Customer XBBVR NULL
+91     Customer CCFIZ NULL
+
+(94 row(s) affected)

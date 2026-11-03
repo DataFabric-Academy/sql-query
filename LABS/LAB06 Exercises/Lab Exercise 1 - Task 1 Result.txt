@@ -1,0 +1,5 @@
+currentdatetime         currentdate currenttime      currentyear currentmonth currentday currentweeknumber currentmonthname
+----------------------- ----------- ---------------- ----------- ------------ ---------- ----------------- ----------------
+2026-11-03 16:53:40.343 2026-11-03  16:53:40.0343333 2026        11           3          45                November
+
+(1 row(s) affected)

@@ -1,0 +1,14 @@
+contactname       numberofa
+----------------- ---------
+Natarajan, Mrina  5
+Raghav, Amritansh 4
+Syamala, Manoj    4
+Larsson, Katarina 4
+.                 .
+.                 .
+.                 .
+Grisso, Geoff     0
+Culp, Scott       0
+Lieber, Justin    0
+
+(91 row(s) affected)

@@ -1,0 +1,5 @@
+threemonths             diffdays diffweeks firstday
+----------------------- -------- --------- ----------
+2027-02-03 16:53:40.380 92       1015      2026-11-01
+
+(1 row(s) affected)

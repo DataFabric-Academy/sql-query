@@ -1,0 +1,14 @@
+custid contactname        segmentgroup
+------ ------------------ ------------
+1      Allen, Michael     Other
+2      Hassall, Mark      Target group
+3      Strome, David      Target group
+4      Cunningham, Conor  Other
+.      .                  .
+.      .                  .
+.      .                  .
+89     Smith Jr., Ronaldo Other
+90     Larsson, Katarina  Other
+91     Vasa, Petr         Other
+
+(91 row(s) affected)

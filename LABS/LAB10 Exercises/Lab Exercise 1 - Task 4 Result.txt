@@ -1,0 +1,19 @@
+custid contactname
+------ --------------------
+9      Raghav, Amritansh
+20     Kane, John
+30     Grossman, Seth
+32     Krishnan, Venky
+34     Zhang, Frank
+37     Óskarsson, Jón Harry
+39     Song, Lolan
+55     Wood, Robin
+62     Misiec, Anna
+63     Veronesi, Giorgio
+65     Moore, Michael
+71     Navarro, Tomás
+76     Luper, Steve
+81     Edwards, Josh
+89     Smith Jr., Ronaldo
+
+(15 row(s) affected)

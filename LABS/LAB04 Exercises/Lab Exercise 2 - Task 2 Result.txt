@@ -1,0 +1,14 @@
+custid contactname    orderid
+------ -------------- -------
+1      Allen, Michael 10643
+1      Allen, Michael 10692
+1      Allen, Michael 10702
+1      Allen, Michael 10835
+.      .              .
+.      .              .
+.      .              .
+91     Vasa, Petr     10906
+91     Vasa, Petr     10998
+91     Vasa, Petr     11044
+
+(830 row(s) affected)

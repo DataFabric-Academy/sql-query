@@ -1,0 +1,14 @@
+contactname        contacttitle
+------------------ -------------------------
+Allen, Michael     Sales Representative
+Hassall, Mark      Owner
+Strome, David      Owner
+Cunningham, Conor  Sales Representative
+.                  .
+.                  .
+.                  .
+Smith Jr., Ronaldo Owner
+Larsson, Katarina  Owner/Marketing Assistant
+Vasa, Petr         Owner
+
+(91 row(s) affected)

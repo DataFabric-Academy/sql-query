@@ -1,5 +1,0 @@
-productid   productname
------------ ----------------------------------------
-38          Product QDOMO
-
-(1 row(s) affected)

@@ -1,0 +1,7 @@
+orderyear nooforders noofcustomers
+--------- ---------- -------------
+2024      152        67
+2025      408        86
+2026      270        81
+
+(3 row(s) affected)

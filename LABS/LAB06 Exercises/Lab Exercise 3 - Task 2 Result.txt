@@ -1,0 +1,14 @@
+fullcontact
+----------------------------------------------
+Allen, Michael (city: Berlin, region: )
+Hassall, Mark (city: México D.F., region: )
+Strome, David (city: México D.F., region: )
+Cunningham, Conor (city: London, region: )
+.
+.
+.
+Smith Jr., Ronaldo (city: Seattle, region: WA)
+Larsson, Katarina (city: Helsinki, region: )
+Vasa, Petr (city: Warszawa, region: )
+
+(91 row(s) affected)

@@ -1,0 +1,4 @@
+empid lastname firstname title mgrid mgrlastname mgrfirstname
+----- -------- --------- ----- ----- ----------- ------------
+
+(0 row(s) affected)

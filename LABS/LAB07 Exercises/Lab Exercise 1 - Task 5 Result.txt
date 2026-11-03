@@ -1,0 +1,12 @@
+categoryid categoryname
+---------- --------------
+3          Confections
+6          Meat/Poultry
+7          Produce
+1          Beverages
+4          Dairy Products
+5          Grains/Cereals
+2          Condiments
+8          Seafood
+
+(8 row(s) affected)

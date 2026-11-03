@@ -1,0 +1,14 @@
+country
+-------
+Germany
+Mexico
+Mexico
+UK
+.
+.
+.
+USA
+Finland
+Poland
+
+(91 row(s) affected)

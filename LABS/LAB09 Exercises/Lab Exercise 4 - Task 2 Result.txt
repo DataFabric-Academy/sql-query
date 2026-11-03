@@ -1,0 +1,14 @@
+custid contactname        salesamt2026
+------ ------------------ ------------
+1      Allen, Michael     2250.50
+2      Hassall, Mark      514.40
+3      Strome, David      660.00
+4      Cunningham, Conor  5604.75
+.      .                  .
+.      .                  .
+.      .                  .
+89     Smith Jr., Ronaldo 15278.90
+90     Larsson, Katarina  1987.00
+91     Vasa, Petr         1865.10
+
+(91 row(s) affected)

@@ -1,0 +1,14 @@
+productname   categoryname
+------------- ------------
+Product HHYDP Beverages
+Product RECZE Beverages
+Product IMEHJ Condiments
+Product KSBRM Condiments
+.             .
+.             .
+.             .
+Product BWRLG Beverages
+Product JYGFE Beverages
+Product LUNZZ Condiments
+
+(77 row(s) affected)

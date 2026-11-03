@@ -1,0 +1,16 @@
+productid productname
+--------- -------------
+24        Product QOGNU
+27        Product SMIOH
+39        Product LSOFL
+41        Product TTEEX
+45        Product AQOKR
+51        Product APITJ
+53        Product BKGEA
+55        Product YYWRT
+59        Product UKXRI
+61        Product XYZPE
+64        Product HCQDE
+75        Product BWRLG
+
+(12 row(s) affected)

@@ -1,0 +1,14 @@
+contactname      contacttitle
+---------------- --------------------
+Allen, Michael   Sales Representative
+Bansal, Dushyant Marketing Manager
+Benito, Almudena Marketing Manager
+Birkby, Dana     Sales Representative
+.                .
+.                .
+.                .
+Gonzalez, Nuria  Owner
+Grisso, Geoff    Owner
+Grossman, Seth   Sales Manager
+
+(22 row(s) affected)

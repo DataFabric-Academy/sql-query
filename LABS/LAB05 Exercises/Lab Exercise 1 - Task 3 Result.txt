@@ -1,0 +1,5 @@
+custid companyname    contactname    address         city   country phone
+------ -------------- -------------- --------------- ------ ------- -----------
+1      Customer NRZBB Allen, Michael Obere Str. 0123 Berlin Germany 030-3456789
+
+(1 row(s) affected)
