@@ -30,6 +30,12 @@
           <AssociatedConnUserName />
           <FullPath>Lab Exercise 4 Solution.sql</FullPath>
         </FileNode>
+        <FileNode Name="Lab Exercise 5 Solution.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Lab Exercise 5 Solution.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
