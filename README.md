@@ -77,3 +77,9 @@
 - Sample database ดัดแปลงจาก **TSQLV6** และแบบฝึกหัดอ้างอิงโครงสร้างจากตำรา
   *T-SQL Fundamentals* — © Itzik Ben-Gan
 - ปรับปรุงสำหรับหลักสูตร SQL Query โดย DataFabric-Academy
+
+## License
+
+เนื้อหาใน repository นี้ (แบบฝึกหัด สคริปต์ setup และเอกสารประกอบ) เผยแพร่ภายใต้
+สัญญาอนุญาต [MIT](LICENSE) — ส่วนที่ดัดแปลงจาก TSQLV6 ยังอ้างอิง credit ของงานต้นฉบับ
+ตามหัวข้อด้านบน
