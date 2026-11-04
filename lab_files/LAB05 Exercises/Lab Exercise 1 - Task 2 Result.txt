@@ -1,4 +1,4 @@
-custid companyname    contactname        address                       city      country phone
+﻿custid companyname    contactname        address                       city      country phone
 ------ -------------- ------------------ ----------------------------- --------- ------- --------------
 4      Customer HFBZG Cunningham, Conor  7890 Hanover Sq.              London    UK      (171) 456-7890
 11     Customer UBHAU Jaffe, David       Fauntleroy Circus 4567        London    UK      (171) 789-0123

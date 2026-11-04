@@ -1,4 +1,4 @@
-custid contactname      productid productname totalsalesamount
+﻿custid contactname      productid productname totalsalesamount
 ------ ---------------- --------- ----------- ----------------
 22     Daly, Jim        NULL      NULL        NULL
 57     Tollevsen, Bjørn NULL      NULL        NULL

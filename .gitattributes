@@ -1,0 +1,6 @@
+# Normalize line endings: LF in repository, CRLF in working tree (Windows-only course)
+* text=auto eol=crlf
+
+# Course materials - binary, never diff or normalize
+*.pptx binary
+*.ppt binary

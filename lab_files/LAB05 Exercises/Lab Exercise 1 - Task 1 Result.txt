@@ -1,4 +1,4 @@
-custid companyname    contactname       address                    city           country phone
+﻿custid companyname    contactname       address                    city           country phone
 ------ -------------- ----------------- -------------------------- -------------- ------- -------------
 15     Customer JUWXK Richardson, Shawn Av. dos Lusíadas, 6789     Sao Paulo      Brazil  (11) 012-3456
 21     Customer KIDPX Russo, Giuseppe   Rua Orós, 3456             Sao Paulo      Brazil  (11) 456-7890

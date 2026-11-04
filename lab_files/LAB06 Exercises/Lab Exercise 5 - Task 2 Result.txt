@@ -1,4 +1,4 @@
-orderid orderdate               shippeddate             shipregion
+﻿orderid orderdate               shippeddate             shipregion
 ------- ----------------------- ----------------------- ----------
 10515   2025-04-23 11:00:42.000 2025-05-23 12:13:45.000 No region
 10545   2025-05-22 16:46:12.000 2025-06-26 08:44:30.000 WA
