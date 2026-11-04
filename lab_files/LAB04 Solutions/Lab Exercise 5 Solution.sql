@@ -26,7 +26,7 @@ IF OBJECT_ID('HR.Calendar_XX') IS NOT NULL
 
 CREATE TABLE HR.Calendar_XX 
 	(
-		calendardate DATE CONSTRAINT PK_Calendar PRIMARY KEY
+		calendardate DATE CONSTRAINT PK_Calendar_XX PRIMARY KEY
 	);
 
 DECLARE 
