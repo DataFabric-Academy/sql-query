@@ -9,3 +9,7 @@
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# Course materials - never publish
+*.pptx
+*.ppt
