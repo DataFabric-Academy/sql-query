@@ -4,14 +4,6 @@
 	แบบฝึกหัดที่ 1
 ---------------------------------------------------------------------*/
 
-/*---------------------------------------------------------------------
-	หมายเหตุสำหรับผู้เรียน (server ใช้ร่วมกัน)
-	
-	object ที่แบบฝึกหัดนี้สร้าง มีชื่อลงท้ายด้วย _XX ให้แทน XX ด้วยเลขประจำตัวของคุณ
-	ก่อนรันทุกครั้ง เช่น _XX -> _07 เพื่อไม่ให้ชนกับ object ของผู้เรียนท่านอื่น
-	ที่ใช้ database TSQL เดียวกัน (object จะถูกลบด้วยคำสั่งท้ายแบบฝึกหัด)
----------------------------------------------------------------------*/
-
 USE TSQL;
 GO
 
@@ -58,46 +50,16 @@ SELECT
 	งานที่ 4
 ---------------------------------------------------------------------*/
 
-SET NOCOUNT ON;
-
-DROP TABLE IF EXISTS Sales.Somedates_XX;
-
-CREATE TABLE Sales.Somedates_XX 
-(
-	isitdate varchar(9)
-);
-
-INSERT INTO Sales.Somedates_XX (isitdate) VALUES 
-	('20110101')
-,	('20110102')
-,	('20110103X')
-,	('20110104')
-,	('20110105')
-,	('20110106')
-,	('20110107Y')
-,	('20110108');
-
-SET NOCOUNT OFF;
-
-SELECT isitdate
-FROM Sales.Somedates_XX;
-
--- solution
-
 SELECT 
 	isitdate
 ,	CASE 
 		WHEN ISDATE(isitdate) = 1 THEN CONVERT(DATE, isitdate) 
 		ELSE NULL 
 	END AS converteddate
-FROM Sales.Somedates_XX;
+FROM Sales.Somedates;
 
 -- Alternate solution using TRY_CONVERT
 SELECT 
 	isitdate
 ,	TRY_CONVERT(DATE, isitdate) AS converteddate
-FROM Sales.Somedates_XX;
-
--- drop a table 
-
-DROP TABLE Sales.Somedates_XX;
+FROM Sales.Somedates;

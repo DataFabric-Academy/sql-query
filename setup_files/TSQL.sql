@@ -6878,3 +6878,32 @@ RETURN
   FROM Nums
   ORDER BY rownum;
 GO
+
+---------------------------------------------------------------------
+-- LAB04 / LAB06: course-prepared views for a shared server
+-- HR.Calendar     : all dates of the current year
+-- Sales.Somedates : sample strings that may or may not be valid dates
+---------------------------------------------------------------------
+
+CREATE VIEW HR.Calendar
+AS
+  SELECT
+    DATEADD(DAY, n - 1, DATEFROMPARTS(YEAR(SYSDATETIME()), 1, 1)) AS calendardate
+  FROM dbo.GetNums(1, DATEDIFF(DAY, DATEFROMPARTS(YEAR(SYSDATETIME()), 1, 1),
+                               DATEFROMPARTS(YEAR(SYSDATETIME()), 12, 31)));
+GO
+
+CREATE VIEW Sales.Somedates
+AS
+  SELECT isitdate
+  FROM (VALUES
+          ('20110101'),
+          ('20110102'),
+          ('20110103X'),
+          ('20110104'),
+          ('20110105'),
+          ('20110106'),
+          ('20110107Y'),
+          ('20110108')
+       ) AS D (isitdate);
+GO

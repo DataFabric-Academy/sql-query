@@ -7,8 +7,12 @@
 
 1. ลบ database `TSQL` ที่มีอยู่เดิม (และ `TSQLV6` ชื่อเก่า หากยังตกค้าง) แล้วสร้างใหม่เสมอ
 2. สร้าง schemas: `HR`, `Production`, `Sales`, `Stats`
-3. สร้างตาราง 10 ตาราง, views 4 ตัว (`Sales.OrderValues`, `Sales.OrderTotalsByYear`,
-   `Sales.CustOrders`, `Sales.EmpOrders`), และ utility `dbo.Nums` / `dbo.GetNums`
+3. สร้างตาราง 10 ตาราง, views 6 ตัว (`Sales.OrderValues`, `Sales.OrderTotalsByYear`,
+   `Sales.CustOrders`, `Sales.EmpOrders`, `HR.Calendar`, `Sales.Somedates`),
+   และ utility `dbo.Nums` / `dbo.GetNums`
+   - `HR.Calendar` — วันที่ทั้งหมดของปีปัจจุบัน (365/366 แถว) เตรียมไว้ให้ LAB04
+     (คำนวณจาก `SYSDATETIME()` จึงถูกต้องทุกปีโดยไม่ต้องเติมข้อมูลใหม่)
+   - `Sales.Somedates` — สตริงตัวอย่างที่อาจเป็นหรือไม่เป็นวันที่ เตรียมไว้ให้ LAB06
 4. เติมข้อมูลตัวอย่างตามตารางด้านล่าง
 
 | ตาราง | จำนวนแถว | หมายเหตุ |
@@ -65,6 +69,7 @@ FROM Sales.Orders;
 | ช่วงวันที่ orders | 2020–2022 (ตำราพิมพ์ 2006–2008) | **2024–2026** |
 | ชนิดคอลัมน์วันที่ใน Orders | DATE | **DATETIME** (+ เวลาทำการ 08:00–18:00) |
 | วันเกิด HR.Employees | 1957–1986 | 1966–1995 (วัยทำงานเหมาะสมกับช่วงข้อมูล) |
+| objects เตรียมสำหรับแบบฝึกหัด | ไม่มี | เพิ่ม `HR.Calendar` (วันที่ปีปัจจุบัน) และ `Sales.Somedates` (สตริง demo ปี 2011) |
 
 ## Credit
 
