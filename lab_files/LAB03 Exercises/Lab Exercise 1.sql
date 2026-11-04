@@ -10,9 +10,8 @@ GO
 /*---------------------------------------------------------------------
 	งานที่ 1
 	
-	เรียกใช้ SSMS เชื่อมต่อไปยัง MIA-SQL โดยใช้ Windows authentication 
-	(ถ้าเชื่อมต่อไปยัง SQL Server บน On-premise) 
-	หรือใช้ SQL Server authentication 	(หากเป็นการเชื่อมไปยัง SQL Azure)
+	เรียกใช้ SSMS เชื่อมต่อไปยัง server ของหลักสูตร
+	(ชื่อ server / user / password ตามที่อาจารย์แจ้ง) และเลือก database TSQL
 	
 	บน Object Explorer ไปที่ฐานข้อมูล TSQL และโฟลเดอร์ Tables 
 	
