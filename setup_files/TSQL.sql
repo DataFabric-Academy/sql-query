@@ -34,7 +34,6 @@
 USE master;
 
 -- Drop database (TSQLV6 is the legacy name from before the course rename)
-IF DB_ID(N'TSQLV6') IS NOT NULL DROP DATABASE TSQLV6;
 IF DB_ID(N'TSQL')   IS NOT NULL DROP DATABASE TSQL;
 
 -- If database could not be created due to open connections, abort
